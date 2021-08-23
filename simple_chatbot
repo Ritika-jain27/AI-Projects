@@ -1,0 +1,8 @@
+<script
+src="https://cdn.cai.tools.sap/webclient/bootstrap.js"
+data-channel-id="c8cff72e-1670-4fb7-bb05-b995c2c438dc"
+data-token="08ad5516a406eb9b630e8cfc039d7ceb"
+data-expander-type="CAI"
+data-expander-preferences="JTdCJTIyZXhwYW5kZXJMb2dvJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZjZG4uY2FpLnRvb2xzLnNhcCUyRndlYmNoYXQlMkZ3ZWJjaGF0LWxvZ28uc3ZnJTIyJTJDJTIyZXhwYW5kZXJUaXRsZSUyMiUzQSUyMkNsaWNrJTIwb24lMjBtZSElMjIlMkMlMjJvbmJvYXJkaW5nTWVzc2FnZSUyMiUzQSUyMkNoYXQlMjB3aXRoJTIwbWUhJTIyJTJDJTIyb3BlbmluZ1R5cGUlMjIlM0ElMjJuZXZlciUyMiUyQyUyMnRoZW1lJTIyJTNBJTIyREVGQVVMVCUyMiU3RA=="
+id="cai-webclient-custom">
+</script>
